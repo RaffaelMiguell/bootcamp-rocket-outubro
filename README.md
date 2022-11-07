@@ -1,1 +1,1 @@
-# bootcamp-rocket-outubro
+# bootcamp da Rocketseat, realizado em outubro/novembro.
